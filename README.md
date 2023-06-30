@@ -7,6 +7,6 @@ Hacking Wnidows / MAC / Linux / Adnroid VERCI JAVA EDITION
 
 </p>
 <p align="center">
-<img src="https://github.com/SaherBlueEagle/Verci_Spy_System_Endless_JAVA/blob/93bf763ba368665b5b0786bf6c79f76adfa2d4e4/MAIN%20WINDOW%20PREV.png" width="150" height="300" >&nbsp &nbsp <img src="https://github.com/SaherBlueEagle/Verci_Spy_System_Endless_JAVA/blob/93bf763ba368665b5b0786bf6c79f76adfa2d4e4/MAIN%20WINDOW%20PREV2.png" width="150" height="300" >&nbsp &nbsp 
+<img src="https://github.com/SaherBlueEagle/Verci_Spy_System_Endless_JAVA/blob/93bf763ba368665b5b0786bf6c79f76adfa2d4e4/MAIN%20WINDOW%20PREV.png" width="600" height="500" >&nbsp &nbsp <img src="https://github.com/SaherBlueEagle/Verci_Spy_System_Endless_JAVA/blob/93bf763ba368665b5b0786bf6c79f76adfa2d4e4/MAIN%20WINDOW%20PREV2.png" width="600" height="500" >&nbsp &nbsp 
 <br>
 </p>
